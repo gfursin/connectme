@@ -1,0 +1,2 @@
+# connectme
+Prototyping connectME library
