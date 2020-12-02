@@ -1,8 +1,5 @@
 # ConnectME
 
-Prototyping the ConnectME library
-
-
 
 ## License
 ConnectME is licensed under the Apache License 2.0. 
