@@ -20,7 +20,7 @@ with open(os.path.join(current_path, "connectme", "__init__.py"), encoding="utf-
 
 ############################################################
 setup(
-    name='myapi',
+    name='connectme',
 
     author="Grigori Fursin",
     author_email="gfursin@gmail.com",
@@ -39,7 +39,6 @@ setup(
     python_requires="", # do not force for testing
 
     packages=find_packages(exclude=["tests*", "docs*"]),
-#    package_data={"myapi":['static/*']},
 
     include_package_data=True,
 
